@@ -1,0 +1,15 @@
+h1{
+color: blue;
+}
+
+p{
+    color: blueviolet;
+}
+
+p.color-verde{
+    color:black;
+}
+
+header{
+color: aqua;
+}
